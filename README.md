@@ -93,5 +93,3 @@ SSH into the control node and follow the steps below:
 -The Pentest.yml is the playbook and it is located at PROJECT-1/Ansible/Project 1_Pentest.yml.docx
 -The Hosts file runs the playbook on a specific machine. The Hosts file installs the ELK server on versus which to install Filebeat on.
 http://(ELK external IP):5601/app/kibana#/home is the URL to navigate to in order to check that the ELK server is running.
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
